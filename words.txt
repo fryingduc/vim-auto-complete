@@ -1,39 +1,87 @@
-vector
+vector array
+pair
 stack
-set
-bitset
-map
 list
-queue
+queue priority_queue
 deque
-unordered_map
-multi_set
-multi_map
+unordered_map multi_map map unordered_multimap
+multi_set set bitset unordered_set unordered_multiset
 
 iterator
 push pop
 front back
+first second
 top 
 push_front pop_front
 push_back pop_back
-begin end
+begin end rbegin rend
+cbegin cend crbegin crend
 count unique 
-remove erase
+remove remove_if erase 
+clear empty
+resize size
+at
+reverse
+emplace_back emplace_front emplace
+swap sort
+greater
+lower_bound upper_bound
+make_pair
 
 max min
-sort
-greater
+floor ceil
+sqrt log log10
+__gcd
 
+void
+const constexpr
+unsigned signed register short static private friend public protected explicit static_cast volatile
 long
-int
-double
-float
-string
-char
-bool
+int double float
+string char
+bool true false
 auto
+struct
+class
+memset memcpy memcmp
+operator
 
 include
 define
 ifdef ifndef else
 pragma
+typedef typename
+template
+
+case switch default
+while do
+for
+if else
+continue break goto
+this catch throw
+return
+
+using namespace inline
+
+cin cout scan printf endl
+stdin stdout stderr
+getline get getchar
+fflush
+eof
+freopen
+ifstream ofstream
+
+cmath
+bits/stdc++.h
+fstream iostream
+algorithm
+iomanip
+numeric
+chrono
+random
+
+isdigit isalpha isupper islower isspace
+tolower toupper
+length
+
+sync_with_stdio
