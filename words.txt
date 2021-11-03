@@ -1,0 +1,39 @@
+vector
+stack
+vecosgp
+set
+bitset
+map
+list
+queue
+deque
+unordered_map
+multi_set
+multi_map
+
+iterator
+push pop
+front back
+top 
+push_front pop_front
+push_back pop_back
+begin end
+count unique 
+remove erase
+
+max min
+sort
+greater
+
+long
+int
+double
+float
+string
+
+#include
+#define
+
+
+
+
