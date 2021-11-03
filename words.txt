@@ -1,6 +1,5 @@
 vector
 stack
-vecosgp
 set
 bitset
 map
@@ -30,10 +29,11 @@ int
 double
 float
 string
+char
+bool
+auto
 
-#include
-#define
-
-
-
-
+include
+define
+ifdef ifndef else
+pragma
