@@ -1,87 +1,161 @@
-vector array
+vector
 pair
 stack
 list
-queue priority_queue
+queue 
+priority_queue
 deque
-unordered_map multi_map map unordered_multimap
-multi_set set bitset unordered_set unordered_multiset
+unordered_map
+multi_map
+map
+unordered_multimap
+multi_set
+set
+bitset
+unordered_set
+unordered_multiset
 
 iterator
-push pop
-front back
-first second
+push
+pop
+front
+back
+first 
+second
 top 
-push_front pop_front
-push_back pop_back
-begin end rbegin rend
-cbegin cend crbegin crend
+push_front
+pop_front
+push_back
+pop_back
+begin end
+rbegin rend
+cbegin cend
+crbegin crend
 count unique 
-remove remove_if erase 
-clear empty
-resize size
+remove
+remove_if
+erase 
+clear
+empty
+resize
+size
 at
 reverse
-emplace_back emplace_front emplace
-swap sort
+emplace_back
+emplace_front
+emplace
+swap
+sort
 greater
-lower_bound upper_bound
+lower_bound
+upper_bound
 make_pair
 
-max min
-floor ceil
-sqrt log log10
+max
+min
+floor
+ceil
+sqrt
+log
+log10
 __gcd
 
 void
-const constexpr
-unsigned signed register short static private friend public protected explicit static_cast volatile
+const
+constexpr
+unsigned
+signed
+register
+short 
+static 
+private 
+friend 
+public 
+protected 
+explicit 
+static_cast 
+volatile
 long
-int double float
-string char
-bool true false
+int
+double 
+float
+string 
+char
+bool 
+true 
+false
 auto
 struct
 class
-memset memcpy memcmp
+memset 
+memcpy 
+memcmp
 operator
 
 include
 define
-ifdef ifndef else
+ifdef 
+ifndef 
+else
 pragma
-typedef typename
+typedef 
+typename
 template
 
-case switch default
-while do
+case 
+switch 
+default
+while 
+do
 for
-if else
-continue break goto
-this catch throw
+if 
+else
+continue 
+break 
+goto
+this 
+catch 
+throw
 return
 
-using namespace inline
+using 
+namespace 
+inline
 
-cin cout scan printf endl
-stdin stdout stderr
-getline get getchar
+cin 
+cout 
+scan 
+printf 
+endl
+stdin 
+stdout 
+stderr
+getline 
+get 
+getchar
 fflush
 eof
 freopen
-ifstream ofstream
+ifstream 
+ofstream
 
 cmath
 bits/stdc++.h
-fstream iostream
+fstream 
+iostream
 algorithm
 iomanip
 numeric
 chrono
 random
 
-isdigit isalpha isupper islower isspace
-tolower toupper
+isdigit 
+isalpha 
+isupper 
+islower 
+isspace
+tolower 
+toupper
 length
 
 sync_with_stdio
